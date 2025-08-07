@@ -1,5 +1,5 @@
 # ⚡ 1D PEM Fuel Cell Simulation Using Finite Difference Methods  
-**Bachelor’s Capstone Project**  
+**Capstone Project** of my **Bachelor** in **Mechanical Engineering** at **UC Berkeley**  
 **Contributor:** Esteban Labrador  
 **Advisors:** Jaime Carpio, Pedro Galán  
 **Date:** September 2022 – July 2023  
@@ -8,7 +8,7 @@
 ---
 
 ## 🌍 Project Objective  
-Hydrogen fuel cells are vital for the clean energy transition, but optimizing their performance requires detailed understanding of complex internal processes. This project develops a **1D finite difference simulation** of a **proton exchange membrane fuel cell (PEMFC)** capturing the transport of gases, heat, and electric charge across a multilayer structure including membrane, catalyst layers, diffusion layers, and gas channels.
+Hydrogen fuel cells are vital for the clean energy transition, but optimizing their performance requires detailed understanding of complex internal processes. This project develops a **1D Finite Difference Simulation** of a **Proton Exchange Membrane Fuel Cell (PEMFC)** capturing the transport of gases, heat, and electric charge across a multilayer structure including membrane, catalyst layers, diffusion layers, and gas channels.
 
 The model incorporates nonlinear source terms related to electrochemical reactions, making the system highly complex and challenging to solve. The simulation enables analysis of how design parameters and operating conditions impact overall fuel cell efficiency and stability.
 
