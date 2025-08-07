@@ -19,6 +19,7 @@ The model incorporates nonlinear source terms related to electrochemical reactio
 <p align="center">
   <em>Schematic of a proton exchange membrane fuel cell (PEMFC)</em>
 </p>
+
 ---
 
 ## ⚙️ Technical Overview  
