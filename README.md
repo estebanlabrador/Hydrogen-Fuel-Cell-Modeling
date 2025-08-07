@@ -12,6 +12,13 @@ Hydrogen fuel cells are vital for the clean energy transition, but optimizing th
 
 The model incorporates nonlinear source terms related to electrochemical reactions, making the system highly complex and challenging to solve. The simulation enables analysis of how design parameters and operating conditions impact overall fuel cell efficiency and stability.
 
+<p align="center">
+  <img src="./plano.png" alt="Technical Drawings of the Compressed Air Engine" width="70%" />
+</p>
+
+<p align="center">
+  <em>Technical drawings of the complete 4-cylinder compressed air engine, including piston layout, transmission, and valve system.</em>
+</p>
 ---
 
 ## ⚙️ Technical Overview  
