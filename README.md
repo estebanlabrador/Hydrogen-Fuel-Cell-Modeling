@@ -13,7 +13,7 @@ Hydrogen fuel cells are vital for the clean energy transition, but optimizing th
 The model incorporates nonlinear source terms related to electrochemical reactions, making the system highly complex and challenging to solve. The simulation enables analysis of how design parameters and operating conditions impact overall fuel cell efficiency and stability.
 
 <p align="center">
-  <img src="./Diagram.png" alt="Diagram of a PEMFC" width="30%" />
+  <img src="./Diagram.png" alt="Diagram of a PEMFC" width="20%" />
 </p>
 
 <p align="center">
