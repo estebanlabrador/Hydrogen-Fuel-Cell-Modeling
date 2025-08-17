@@ -28,6 +28,14 @@ The model incorporates nonlinear source terms related to electrochemical reactio
   <em>Schematic of a proton exchange membrane fuel cell (PEMFC)</em>
 </p>
 
+
+
+now write the different equations and tables and describe the model and then show some graphs
+
+$$
+\frac{\partial u}{\partial t} = \alpha \nabla^2 u
+$$
+
 ---
 
 ## 📈 Key Results  
