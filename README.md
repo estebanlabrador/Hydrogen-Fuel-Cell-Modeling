@@ -140,32 +140,22 @@ Boundary conditions.
 
 ## 📈 Key Results  
 <p align="center">
-  <img src="./phie.png" alt="Cylinders used in the mechanical assembly" width="50%" />
-  <img src="./Corr_transf.png" alt="Piston assembly with linear bearing and spherical follower" width="42.5%" />
+  <img src="./conc.png" alt="" width="32%" />
+  <img src="./phie.png" alt="" width="30%" />
+  <img src="./Corr_transf.png" alt="" width="31%" />
 </p>
 
 <p align="center">
-  <em>Left: Cylinders  
-  Right: Piston assembly with linear bearing and spherical follower.</em>
+  <em>1D plots of the final model showing species concentrations across all cell layers, electrolyte potential, and the exponential factors at the anode and cathode.</em>
 </p> 
 
 ---
 
-## 🖼️ Visualizations  
-*(Insert concentration, temperature, electric potential, and current density plots here)*  
-
----
 
 ## 🔄 Next Steps  
 - Implement advanced nonlinear solvers to improve convergence speed  
 - Extend model to 2D/3D for spatially resolved simulations  
 - Integrate with experimental data for model validation  
 
----
 
-## 🎤 Dissemination  
-This work contributes to understanding and optimizing PEM fuel cells for clean energy applications.
 
----
-
-👉 **View the project on GitHub** _(link placeholder)_
