@@ -139,9 +139,15 @@ Boundary conditions.
 ---
 
 ## 📈 Key Results  
-- Detailed profiles of concentration, temperature, potential, and current density across the cell  
-- Sensitivity analysis on operating conditions (temperature, pressure, humidity)  
-- Validation against literature data (insert link or figure)  
+<p align="center">
+  <img src="./phie.png" alt="Cylinders used in the mechanical assembly" width="50%" />
+  <img src="./Corr_transf.png" alt="Piston assembly with linear bearing and spherical follower" width="42.5%" />
+</p>
+
+<p align="center">
+  <em>Left: Cylinders  
+  Right: Piston assembly with linear bearing and spherical follower.</em>
+</p> 
 
 ---
 
